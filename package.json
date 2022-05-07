@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AndersonAslap/project-feedback-api/issues"
   },
-  "homepage": "https://github.com/AndersonAslap/project-feedback-api#readme"
+  "homepage": "https://github.com/AndersonAslap/project-feedback-api#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
 }
